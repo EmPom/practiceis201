@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(164, 213, 234); /*text color*/ 
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+h5{
+    text-align: center;
+    font-style: italic;
+
+}
+a{
+    color: blueviolet;
+}
+a:visited{
+    color: midnightblue;
+}
+img{
+    border: 22px solid rgb(0, 0, 0);
+    padding: 3px; /*padding is blank space between an image and the border*/
+    margin: 5px;
+    display: block;
+    margin: auto; /*how to center things, use both display and margin*/
+}
+.rizz{
+    text-decoration: dashed;
+    color: saddlebrown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: dashed black 3px;
+}
+li{
+    text-decoration: overline;
+}
+
